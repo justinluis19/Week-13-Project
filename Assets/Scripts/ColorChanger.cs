@@ -26,7 +26,7 @@ public class ColorChanger : MonoBehaviour
     void Start()
     {
         Debug.Log("START GAME");
-
+        Debug.Log("HI")
         startColor =  myRenderer.material.color;
     }
 

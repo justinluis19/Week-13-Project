@@ -25,6 +25,8 @@ public class ColorChanger : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        Debug.Log("START GAME");
+
         startColor =  myRenderer.material.color;
     }
 

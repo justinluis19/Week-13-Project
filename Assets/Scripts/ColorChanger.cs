@@ -20,9 +20,6 @@ public class ColorChanger : MonoBehaviour
 
     private int colorIndex = 0;
 
-    public Color moreColors;
-
-    private int randomInt;
 
 
     // Start is called before the first frame update
